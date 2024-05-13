@@ -1,0 +1,22 @@
+2024-03-06 18:41:29 INFO  LoggerManager:40 - JDBC driver loaded successfully
+2024-03-06 18:41:29 INFO  LoggerManager:28 - application.properties file uploaded successfully
+2024-03-06 18:41:30 INFO  LoggerManager:29 - Database connection completed successfully
+2024-03-06 18:41:30 INFO  LoggerManager:34 - Upload completed successfully to file db.xml
+2024-03-06 18:46:00 INFO  LoggerManager:40 - JDBC driver loaded successfully
+2024-03-06 18:46:00 INFO  LoggerManager:28 - application.properties file uploaded successfully
+2024-03-06 18:46:01 INFO  LoggerManager:29 - Database connection completed successfully
+2024-03-06 18:46:01 INFO  LoggerManager:29 - Database connection completed successfully
+2024-03-06 18:46:01 INFO  LoggerManager:77 - 1 departments successfully updated
+2024-03-06 18:46:01 INFO  LoggerManager:85 - 12 departments successfully deleted
+2024-03-06 18:46:01 INFO  LoggerManager:90 - Transaction completed successfully
+2024-05-13 11:07:22 INFO  LoggerManager:38 - JDBC driver loaded successfully
+2024-05-13 11:07:22 INFO  LoggerManager:25 - application.properties file uploaded successfully
+2024-05-13 11:07:23 INFO  LoggerManager:27 - Database connection completed successfully
+2024-05-13 11:07:23 INFO  LoggerManager:27 - Database connection completed successfully
+2024-05-13 11:07:23 INFO  LoggerManager:63 - The database is already synchronized
+2024-05-13 11:07:23 INFO  LoggerManager:90 - Transaction completed successfully
+2024-05-13 11:09:28 ERROR LoggerManager:11 - Invalid number of input parameters
+2024-05-13 11:11:31 INFO  LoggerManager:38 - JDBC driver loaded successfully
+2024-05-13 11:11:31 INFO  LoggerManager:25 - application.properties file uploaded successfully
+2024-05-13 11:11:31 INFO  LoggerManager:27 - Database connection completed successfully
+2024-05-13 11:11:31 INFO  LoggerManager:34 - Upload completed successfully to file db/db.xml
